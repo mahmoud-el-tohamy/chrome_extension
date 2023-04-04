@@ -1,5 +1,5 @@
 function run() {
-    let commentsContainer = document.getElementById('comments');
+    let commentsContainer = document.getElementById('sections');
     commentsContainer.remove();
 }
 
